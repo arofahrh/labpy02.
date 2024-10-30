@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/8d937fca-f71f-490b-a277-a1468b906d2d)latihan 1 (membuat program menentukan nilai akhir)
+latihan 1. membuat program menentukan nilai akhir 
 
-input:
-![Screenshot 2024-10-29 212500](https://github.com/user-attachments/assets/353f37c9-80f1-415d-b4b0-1ac9a1bb94b4)
+input :
+![image](https://github.com/user-attachments/assets/8d937fca-f71f-490b-a277-a1468b906d2d)
 
 output: 
 ![Screenshot 2024-10-29 212946](https://github.com/user-attachments/assets/6eab4602-7a2b-4396-94b9-e2dc011d9c8f)
@@ -26,6 +26,7 @@ algoritma:
 - Jika tidak, huruf = "E"
 4. Output Hasil:
    Cetak nama, nilai UTS, nilai UAS, nilai tugas, nilai akhir, nilai huruf, dan keterangan.
+
 flowchart :
 
-    
+![Screenshot 2024-10-30 170201](https://github.com/user-attachments/assets/3711a005-573c-429d-a0dc-5303e17e2492)
